@@ -47,7 +47,7 @@ using System.Runtime.InteropServices;
 //The repository where your pluggin is hosted
 [assembly: AssemblyMetadata("Repository", "https://bitbucket.org/Isbeorn/nina.plugin.exposurecalculator/")]
 
-[assembly: AssemblyMetadata("ChangelogURL", "https://bitbucket.org/Isbeorn/nina.plugin.exposurecalculator/src/master/ScopeControl/Changelog.md")]
+[assembly: AssemblyMetadata("ChangelogURL", "")]
 
 //Common tags that quickly describe your plugin
 [assembly: AssemblyMetadata("Tags", "")]
