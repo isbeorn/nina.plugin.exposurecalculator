@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Exposure Calculator")]
 [assembly: AssemblyDescription("A tool to recommend an exposure time based on read noise and sky glow.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Stefan Berg")]
+[assembly: AssemblyCompany("Stefan Berg @isbeorn")]
 [assembly: AssemblyProduct("NINA.Plugin")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021-2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -45,7 +45,7 @@ using System.Runtime.InteropServices;
 //The url to the license
 [assembly: AssemblyMetadata("LicenseURL", "https://www.mozilla.org/en-US/MPL/2.0/")]
 //The repository where your pluggin is hosted
-[assembly: AssemblyMetadata("Repository", "https://bitbucket.org/Isbeorn/nina.plugin.exposurecalculator/")]
+[assembly: AssemblyMetadata("Repository", "https://github.com/isbeorn/nina.plugin.exposurecalculator")]
 
 [assembly: AssemblyMetadata("ChangelogURL", "")]
 
